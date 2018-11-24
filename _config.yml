@@ -7,14 +7,14 @@ permalink:           pretty
 title:               CoT AI - a Course Progress
 tagline:             'A Jekyll theme'
 description:         'A journey to AI'
-url:                 http://lanyon.getpoole.com
+url:                 ''
 baseurl:             '/CoT_AI/'
 paginate:            5
 
 # About/contact
 author:
   name:              Quang Nguyen
-  url:               ''
+  url:               '/about/'
   email:             ''
 
 # Custom vars
